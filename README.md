@@ -1,5 +1,7 @@
 # 15-688 Practical Data Science Project
 
+https://nbviewer.jupyter.org/github/zach96guan/15-688_PDS_Project/blob/master/final_report.ipynb
+
 In this project, we extract yellow taxi data from NYC Open Data, conduct data preprocessing, data analysis, feature engineering and implement a series of models to predict taxi trip duration. Based on our experiments, we obtain the following conclusions:
 
 
